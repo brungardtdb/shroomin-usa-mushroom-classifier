@@ -179,7 +179,7 @@ class StalkSurface(Enum):
 class Attribute(Enum):
     CLASS = 1,
     CAP_SHAPE = 2,
-    CAP_SURFACE = 2,
+    CAP_SURFACE = 3,
     CAP_COLOR = 4,
     BRUISES = 5,
     ODOR = 6,
